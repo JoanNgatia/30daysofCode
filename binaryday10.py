@@ -12,6 +12,3 @@ def day10(num):
             empty.append(arr[count])
         count = count + 1
     return len(empty)
-
-
-print day10(5)
